@@ -1,20 +1,35 @@
-### Cover letter N2
+Technical Writer cover letter
 
-_**My name’s Zhelyazko**_, I’m based in Copenhagen, and I’m truly excited to apply for the UX Writer position.
+Hello, 
+My name's Zhelyazko,
 
-**Why I consider myself a great match for similar positions!**
-**Long story short**, I've been in a writing mode for 10+ years, including content creation for financial institutions, technical descriptions of healthcare and software products, social media content, architecture journals, advertisement, etc. I believe that my ability and willingness to adapt and learn new things have played a significant role in my career. I'm experienced in working in larger teams, cooperating with just a few professionals, or managing projects independently. I thrive in a creative environment and like to dive into challenges. I'm willing to learn the things I don't know and invest in sharing all I know. 
+Long story short, I've been in a writing-for-a-living mode for 10+ years.
 
+** Most recently** , I've been working as a Technical and UX writer at a software company, creating content focused on technical (and sometimes) non-technical audiences.
+Furthermore, my position aimed to be a cross-functional collaboration between product managers, customer support specialists, and UI designers, using Jira as an agile project management tool. 
+Some of the main day-to-day tasks and content forms:
 
-**Most recently**, I've been working as a Technical and UX writer at a software company. My day-to-day functions are being the connection between product managers, developers, marketing specialists, and designers, concerning the content creation + microcopy for software products, and app features. 
+* producing elaborate customer-centric technical documentation;
+* creating and editing content in .xml and .strings, while collaborating with developers;
+* product-testing before publishing content;
+* describing work flow of apps and features;
+* help center articles and how-tos;
+* in-app UX content and technical microcopy - keeping the app functions clear and helpful to end-users (tooltips, messages, pop-ups, etc);
+* use cases;
+* content management systems;
+* image editing;
+* onboarding activities;
+* blog content, etc.
 
-In order to keep the whole communication between teams connected and to provide users with full-scale service, I manage to work also with our customer support specialists, providing help center articles and how-tos for end users. Also, keeping a tone of voice and style to the produced content.
+*additional activities -  Markdown and Github usage.
 
+** In addition **, I’ve got hands-on experience in content creation for financial institutions (online trading, blockchain tech, cryptocurrency topics), technical descriptions of healthcare products, social media content, web content, architecture journals, ad scenarios, blog and web content, etc. 
+I'm used to working in larger teams, cooperating with just a few professionals, or managing projects independently. I thrive in a technical and creative environment, and like to dive into challenges. I'm willing to learn the things I don't know and invest in sharing all I know.
 
-Personally, I consider the idea of making a product or service much more accessible and user-friendly via content creation exciting and demanding as well.
-
-**Hopefully**, this cover letter will bring out a bit more about me as a person and a professional :)
-
-Thanks
+Hopefully, this cover letter will bring out a bit more about me as a personality and a professional.
 
 Zhelyazko Zhelyazkov
+
+
+
+
