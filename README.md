@@ -1,2 +1,2 @@
-# UX-writer-cover-letter
+# Technical & UX-writer-cover-letter
 A short description of professional experience
